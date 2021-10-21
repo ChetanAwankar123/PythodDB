@@ -1,0 +1,59 @@
+insert into books values(1002,'Birth Of A Tragedy: Kashmir 1947','Horror/thriller','Alastair Lamb','Roxford Books',3,1922);
+insert into books values(1003,'The Tragedy of Pudd','Action','Mark Twain/Michael Prichard','Tantor Media',5,611);
+insert into books values(1004,'Bridge to Terabithia','Comedy','Katherine Paterson/Donna Diamond','HarperTeen',5,1335);
+insert into books values(1005,'Literature Circle Guide','Heist film/Thriller','Tara MacCarthy','Teaching Resources',3,659);
+insert into books values(1006,'Bread and Roses  Too','Musical/Western/Fantasy','Katherine Paterson','Clarion Books',4,1512);
+insert into books values(1007,'The Invisible Child','Comedy','Katherine Paterson','Dutton Juvenile',1,799);
+insert into books values(1008,'A Short History of Decay','Documentary','Emil M. Cioran/Richard Howard','Arcade Publishing',1,852);
+insert into books values(1009,'Scholar of Decay (Ravenloft  #14)','Drama','Tanya Huff','TSR',4,1453);
+insert into books values(1010,'Girl with a Pearl Earring','Romantic comedy','Tracy Chevalier','Plume Books',4,1644);
+insert into books values(1011,'The Golden Tulip','Action comedy','Rosalind Laker','Doubleday',4,556);
+insert into books values(1012,'Burning Bright','Thriller','Tracy Chevalier','Dutton',1,2236);
+insert into books values(1013,'Falling Angels','Documentary','Tracy Chevalier','Penguin Books',5,1418);
+insert into books values(1014,'The Virgin Blue','Horror anthology','Tracy Chevalier','Penguin Books',5,1648);
+insert into books values(1015,'Wenn Engel fallen','Political','Tracy Chevalier','List',3,1443);
+insert into books values(1016,'Bleach Volume 15','Horror thriller','Tite Kubo','VIZ Media LLC',5,566);
+insert into books values(1017,'Bleach Volume 01','Documentary','Tite Kubo','VIZ Media LLC',4,1315);
+insert into books values(1018,'Bleach Volume 14','Thriller','Tite Kubo','VIZ Media LLC',2,1889);
+insert into books values(1019,'Bleach Volume 11','Comedy','Tite Kubo','VIZ Media LLC',5,1981);
+insert into books values(1020,'Bleach Volume 12','Thriller','Tite Kubo','VIZ Media LLC',4,2084);
+insert into books values(1021,'DEATH NOTE','Superhero-Comedy','Tsugumi Ohba','Chetan awankar',5,1478);
+insert into books values(1022,'Death Note  Vol. 4 (Death Note  #4)','Thriller','Tsugumi Ohba','Shueisha',1,659);
+insert into books values(1023,'Death Note  Vol. 3(Death Note  #3)','Romantic comedy','Takeshi Obata','Shueisha',1,1793);
+insert into books values(1024,'Love Artist (Harlequin Romance #2860)','Comedy','Valerie Parv','Harlequin Romance',2,2050);
+insert into books values(1025,'Perfume: The Story of a Murderer','Comedy','John E. Woods','Vintage International',5,2212);
+insert into books values(1026,'Das Parfum. Die Geschichte eines M̦rders','Comedy','Patrick','Diogenes',2,1767);
+insert into books values(1027,'Three Stories and a Reflection','Documentary','Patrick','Bloomsbury Publishing PLC',3,1774);
+insert into books values(1028,'The Pigeon','Horror','Patrick','Penguin',5,882);
+insert into books values(1029,'The Story of Mr Sommer','Romance drama','Jean-Jacques','Not Avail',4,2040);
+insert into books values(1030,'Bleach','Comedy','Tite Kubo','Shueisha',5,2224);
+insert into books values(1031,'Bleach  Tome 1: The Death and the Strawberry','Horror','Tite Kubo','Gl̩nat',5,767);
+insert into books values(1032,'Escape from Fire Mountain','Comedy','Gary Paulsen/Steve Chorney','Yearling',2,782);
+insert into books values(1033,'How Angel Peterson Got His Name','Documentary','Gary Paulsen','Yearling',1,1309);
+insert into books values(1034,'Tuckets Travels','Drama','Gary Paulsen','Yearling',2,841);
+insert into books values(1035,'Chicago Blues','Science fiction/Drama','Mike  Rowe','Da Capo Press',5,1618);
+insert into books values(1036,'The Rescue','Anime/Short','Gary Paulsen','Delacorte Books for Young Readers',2,2237);
+insert into books values(1037,'Brians Winter','Drama','Daniel Defoe/Virginia Woolf','Modern Library',2,1194);
+insert into books values(1038,'Robinson Crusoe (Robinson Crusoe #1)','Superhero','Daniel Defoe','Penguin Classics',3,2475);
+insert into books values(1039,'Robinson Crusoe','Thriller','Daniel Defoe','W.W. Norton & Company',5,2369);
+insert into books values(1040,'Robinson Crusoe','Heist','Daniel Defoe/Avi','Aladdin',4,740);
+insert into books values(1041,'Robinson Crusoe','Thriller','Daniel Defoe','Ann Arbor Media',2,1125);
+insert into books values(1042,'Robinson Crusoe','Horror','Daniel Defoe','Dover Publications',2,613);
+insert into books values(1043,'A General History of the Pyrates','Comedy','Mark Twain','University of California Press',5,747);
+insert into books values(1044,'Huck Finn','Comedy','Mark Twain/Lee Nelson','Council Press',3,2248);
+insert into books values(1045,'Huck Finn and Tom Sawyer Among the Indians','Western','Mark Twain','Library of America',4,1317);
+insert into books values(1046,'Huck Finn','Action','Mark Twain','Penguin Classics',5,1256);
+insert into books values(1047,'The Adventures of Huckleberry Finn','Animation','Mark Twain','Dover Publications',1,2329);
+insert into books values(1048,'Adventures of Huckleberry Finn','Family film','Mark Twain/George Saunders','The Modern Library',3,1357);
+insert into books values(1049,'Adventures of Huckleberry Finn','Drama','Mark Twain','W. W. Norton  Company',5,863);
+insert into books values(1050,'The Annotated Huckleberry Finn','Comedy','Mark Twain','Dover Publications',3,462);
+insert into books values(1051,'The Wit and Wisdom of Mark Twain','Drama','Mark Twain/Charles Neider','Bantam Classics',4,1453);
+insert into books values(1052,'Hunting the Hunter','Thriller','Mark Twain/Charles Neider','Harper Perennial',3,668);
+insert into books values(1053,'The Complete Short Stories of Mark Twain','Romantic comedy','Mark Twain/Louis J. Budd','Library of America',5,927);
+insert into books values(1054,'The Autobiography of Mark Twain','Horror','James Hilton','Harper Perennial',5,807);
+
+
+
+
+
+
